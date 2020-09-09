@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 30px;
+}
+
+thead {
+    text-align: left;
+}
+
+.productPrice {
+    text-align: right;
+}
+
+.productQuantity {
+    text-align: right;
+}
+
+.productTotalCost {
+    text-align: right;
+}
+
+.totalCost {
+    text-align: right;
+}
+
+tr {
+    border: 1px solid #888;
+}
