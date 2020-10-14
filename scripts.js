@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const productPrice = document.getElementsByClassName('productPrice');
 const productQuantity = document.getElementsByClassName('productQuantity')
 
@@ -10,16 +10,6 @@ function displayAmount() {
     
 
 }
-=======
-<<<<<<< HEAD
-function displayAmount() {
-    console.log('aantal producten geweijzigd')
-    document.getElementsByClassName('productPrice')
-    document.getElementsByClassName('productQuantity')
-    document.getElementsByClassName('productTotalCost')
-     
-}
-=======
 const productPrice = document.getElementsByClassName('productPrice')
 const productQuantity = document.getElementsByClassName('productQuantity')
 
@@ -54,5 +44,3 @@ function displayTotalAmount() {
     document.getElementsByClassName('totalCost')[0].innerHtml = totalCost;
     console.log(totalCost)
 };
->>>>>>> a62666c849387fd7220bf3bad74e6a389b76a177
->>>>>>> d8ac90c25e64e9fd24bf6a4b6f9fe72750f4fca5
